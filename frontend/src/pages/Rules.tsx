@@ -2,7 +2,7 @@ import { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Link } from 'react-router-dom';
 import { 
-  FileText, ShieldCheck, Zap, Server, ChevronDown, 
+  FileText, ShieldCheck, Zap, Server, 
   ArrowRight, CheckCircle2, Calculator 
 } from 'lucide-react';
 

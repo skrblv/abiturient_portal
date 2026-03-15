@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 import { 
   ArrowRight, Code, Cpu, Shield, Zap, Terminal, 
   ChevronDown, Globe, Rocket, Fingerprint, Database, 
-  Binary, Network, Lock, Braces 
+  Binary, Network, 
 } from 'lucide-react';
 
 // --- ЛОКАЛЬНЫЕ ДАННЫЕ ДЛЯ МАСШТАБНОСТИ СТРАНИЦЫ ---
